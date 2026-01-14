@@ -4,3 +4,7 @@ Hello parth i'm testiong rm cmd
 git restore 
 
 git restore --staged 
+
+
+
+i've added new commit reset head~1
